@@ -190,7 +190,7 @@ class welcome //welcome class
 		cout <<'*';
 		ch= _getch();
 		}
-		if(pass=="Vibhor"){
+		if(pass=="Suman"){
 			cout<<" \n\n\n\t\t\t\t\t\t Access Granted! \n";
 			system("PAUSE"); 
 			system("CLS");
